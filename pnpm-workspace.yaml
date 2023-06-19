@@ -1,4 +1,8 @@
 packages:
   - 'packages/*'
 packages:
-  - 'packages/*'
+  - 'packages/*'  esNextPaths, es5Paths,
+  esNextPaths,
+} = require('./scripts/sharedshared/pathsByLanguageVersion');
+es5Paths,
+  esNextPaths, es5Paths,
