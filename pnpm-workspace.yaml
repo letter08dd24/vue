@@ -3,6 +3,6 @@ packages:
 packages:
   - 'packages/*'  esNextPaths, es5Paths,
   esNextPaths,
-} = require('./scripts/sharedshared/pathsByLanguageVersion');617703
+} = require('./scripts/sharedshared/pathsByLanguageVersion');617703charset = utf-8
 es5Paths,
   esNextPaths, es5Paths,
